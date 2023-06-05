@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @GabeeMoon
-- 👀 I’m interested in on creating a career in the dev world
-- 🌱 I’m currently learning A little bit of everything
-- 📫 How to reach me Email: gmoon.dev@gmail.com
+👋 Hi I'm @GabeeMoon
+👀 Developing my skills to work in the field of Data Science
+🌱 Focused on Python and SQL
+📫 How to contact me Email: gmoon.dev@gmail.com
 
 <!---
 GabeeMoon/GabeeMoon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
