@@ -1,6 +1,6 @@
-👋 Hi I'm @GabeeMoon
-👀 Developing my skills to work in the field of Data Science
-🌱 Focused on Python and SQL
+👋 Hi I'm @GabeeMoon;
+👀 Developing my skills to work in the field of Data Science;
+🌱 Focused on Python and SQL;
 📫 How to contact me Email: gmoon.dev@gmail.com
 
 <!---
