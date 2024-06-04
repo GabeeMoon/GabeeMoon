@@ -1,6 +1,6 @@
 👋 Hi I'm @GabeeMoon;
 
-👀 Developing my skills to work in the field of Data Science;
+👀 Olá, sou umprogramador Fullstack PHP com ampla experiência em desenvolvimento web. Possuo habilidades em HTML, CSS, PHP, MySQL e frameworks como magento 2. Com foco em integração de API, design web baseado nas métricas do Google, criação de módulos PHP, arquitetura MVC e PDO, busco constantemente novos desafios e soluções criativas para problemas complexos. Estou animado para aplicar minhas habilidades e experiências em um papel de Programador Fullstack PHP.
 
 🌱 Focused on Python and SQL;
 
